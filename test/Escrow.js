@@ -105,6 +105,6 @@ describe('Escrow Contract', () => {
   })
 
   describe("Approval",()=>{
-    it("Approves the t")
+    it("Approves the the transaction")
   })
 });
